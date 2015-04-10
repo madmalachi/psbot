@@ -1,0 +1,40 @@
+Counter:
+can switch into any of the opponent's moves with no drawbacks and kill, set up on, or force out the opponent
+
+Check:
+if given a free switch into the opponent, can kill, set up on, or force them out
+
+Choosing a lead:
+Prioritize Stealth Rock/(possibly weather)
+Player's perspective:
+Look at each of the opponents pokemon
+compare counters:
+- look at common sets for each of the opponents pokemon
+- compute the average matchup of each mon against each of your mons (more on this later)
+- based on all the matchups, along with stealth rock factored in, calculate the value of each lead
+Opponents perspective:
+(based on your team, use the above methods to predict the lead the opponent will most likely choose)
+
+
+Choosing Moves:
+If stealth rock is not up, prioritize stealth rock
+If stealth rock is up on your side, prioritize defog/rapid spin
+
+Attacks
+	STAB: +1
+	Super Effective: +1
+	Not Very Effective: -1
+
+Special Cases:
+	Stealth Rock = 5
+
+Necessary for Move Value:
+Name, Priority, Accuracy, side effects
+Necessary for Calc:
+Name, Damage, extra effects that alter damage
+
+Order left to do:
+Finish damage calculator / add item data
+make value calculator
+make html parser/extractor
+finish ai/driver

@@ -1,0 +1,57 @@
+Lopunny @ Lopunnite
+Ability: Limber
+Shiny: Yes
+Happiness: 0
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- High Jump Kick
+- Fake Out
+- Frustration
+- Toxic
+
+Ferrothorn (F) @ Leftovers
+Ability: Iron Barbs
+EVs: 252 HP / 52 Def / 204 SpD
+Sassy Nature
+IVs: 0 Spe
+- Leech Seed
+- Protect
+- Stealth Rock
+- Gyro Ball
+
+Latias (F) @ Life Orb
+Ability: Levitate
+EVs: 72 HP / 184 SpA / 252 Spe
+Timid Nature
+- Draco Meteor
+- Psyshock
+- Defog
+- Healing Wish
+
+Landorus-Therian (M) @ Choice Scarf
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- U-turn
+- Earthquake
+- Stone Edge
+- Knock Off
+
+Keldeo @ Leftovers
+Ability: Justified
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Calm Mind
+- Scald
+- Secret Sword
+- Substitute
+
+Raikou @ Choice Specs
+Ability: Pressure
+Shiny: Yes
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Volt Switch
+- Thunderbolt
+- Hidden Power [Ice]
+- Shadow Ball

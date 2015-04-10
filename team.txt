@@ -1,0 +1,58 @@
+Garchomp @ Focus Sash
+Ability: Rough Skin
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Outrage
+- Earthquake
+- Swords Dance
+- Stealth Rock
+
+Diancie @ Diancite
+Ability: Clear Body
+EVs: 180 Atk / 252 SpA / 76 Spe
+Rash Nature
+- Diamond Storm
+- Moonblast
+- Earth Power
+- Rock Polish
+
+Magnezone @ Choice Scarf
+Ability: Magnet Pull
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk / 30 SpA / 30 Spe
+- Volt Switch
+- Thunderbolt
+- Hidden Power [Fire]
+- Flash Cannon
+
+Latios @ Life Orb
+Ability: Levitate
+Shiny: Yes
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Draco Meteor
+- Psyshock
+- Defog
+- Memento
+
+Diggersby @ Focus Sash
+Ability: Huge Power
+Happiness: 0
+EVs: 252 Atk / 4 Def / 252 Spe
+Adamant Nature
+- Quick Attack
+- Frustration
+- Earthquake
+- Swords Dance
+
+Gyarados @ Life Orb
+Ability: Moxie
+Shiny: Yes
+EVs: 252 Atk / 4 Def / 252 Spe
+Adamant Nature
+- Waterfall
+- Earthquake
+- Stone Edge
+- Dragon Dance
+
